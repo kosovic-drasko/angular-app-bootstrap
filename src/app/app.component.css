@@ -1,3 +1,9 @@
 .col{
     border: solid;
+    margin: 5px;
+    background-color: yellowgreen;
+    color: white;
+}
+.container{
+    margin: 10px;
 }
